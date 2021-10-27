@@ -1,0 +1,42 @@
+#img1{
+    border-width: 10px;
+    border-color: red;
+    border-style: solid;
+    margin:5px;  
+    padding: 10px;
+}
+
+#img2{
+    border-width: 7px;
+    border-color: rgb(49, 216, 188);
+    border-style: dotted;
+    margin:5px;  
+    padding: 10px;
+}
+
+#img3{
+    border-width: 5px;
+    border-color: rgb(175, 23, 125);
+    border-style: dashed;
+    margin:5px;  
+    padding: 10px;
+
+    }
+
+#img4{
+    border-width: 30px;
+    border-color: rgb(240, 253, 62);
+    border-style: double;
+    margin:5px;  
+    padding: 10px;
+
+}
+
+#img5{
+    border-width: 2px;
+    border-color: rgb(130, 13, 206);
+    border-style: groove;
+    margin:5px;  
+    padding: 10px;
+
+}
